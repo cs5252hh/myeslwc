@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Café</fullName>
+        <default>false</default>
+        <label>Café</label>
+    </customValue>
+    <customValue>
+        <fullName>Cooking Classroom</fullName>
+        <default>false</default>
+        <label>Cooking Classroom</label>
+    </customValue>
+    <customValue>
+        <fullName>Drawing/Watercolor Studio</fullName>
+        <default>false</default>
+        <label>Drawing/Watercolor Studio</label>
+    </customValue>
+    <customValue>
+        <fullName>Exploration Lab</fullName>
+        <default>false</default>
+        <label>Exploration Lab</label>
+    </customValue>
+    <customValue>
+        <fullName>Game Room/Arcade</fullName>
+        <default>false</default>
+        <label>Game Room/Arcade</label>
+    </customValue>
+    <customValue>
+        <fullName>Music Room</fullName>
+        <default>false</default>
+        <label>Music Room</label>
+    </customValue>
+    <customValue>
+        <fullName>Sand Drawing Tables</fullName>
+        <default>false</default>
+        <label>Sand Drawing Tables</label>
+    </customValue>
+    <customValue>
+        <fullName>Temporary Terrace</fullName>
+        <default>false</default>
+        <label>Temporary Terrace</label>
+    </customValue>
+    <customValue>
+        <fullName>Walking Meditation Paths</fullName>
+        <default>false</default>
+        <label>Walking Meditation Paths</label>
+    </customValue>
+    <masterLabel>Category</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
